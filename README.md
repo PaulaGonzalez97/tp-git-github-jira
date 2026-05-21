@@ -32,3 +32,6 @@ Análisis de ventas de una pequeña empresa.
 
 ## Estado del proyecto
 En desarrollo.
+
+## Mejoras finales
+- Se agregaron comentarios y revision final del proyecto.
